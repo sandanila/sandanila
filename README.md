@@ -25,7 +25,7 @@
 
 ### 📁 Top Projects
 
-* **[AI-Video-Engagement-Predictor](https://github.com/sandanila/AI-Video-Engagement-Predictor)** - AI-based video engagement predictor using Machine Learning (1st Place at INNOVISION 2026).
+* **[AI-Video-Engagement-Predictor](https://github.com/sandanila/YouTube-Views-Prediction)** - AI-based video engagement predictor using Machine Learning (1st Place at INNOVISION 2026).
 * **[Weather-App-Python](https://github.com/sandanila/Weather-App-Python)** - Real-time weather data application built with Python.
 * **[Calculator-python](https://github.com/sandanila/Calculator-python)** - Simple GUI calculator with Tkinter to practice logic.
 * **2D Car Game** - Java-based object-oriented programming project.
