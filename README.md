@@ -35,13 +35,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandanila&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandanila&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandanila&theme=tokyonight&hide_border=true" width="100%" />
 </p>
