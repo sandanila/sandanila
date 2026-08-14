@@ -3,28 +3,29 @@
 🚀 **Aspiring Full Stack Developer**
 
 * 🎓 Currently pursuing HNDIT at SLIATE.
-* 📊 Passionate about Data Science and Machine Learning, focusing on Statistical Modeling and Linear Algebra.
-* 💻 Expert in Python programming, specializing in libraries like NumPy, Pandas, and Matplotlib.
-* 🤖 Building AI-driven solutions like Creator-Intel PRO to predict video engagement.
+* 💻 Passionate about Full Stack Development, Software Engineering, and building user-centric web applications.
+* 🤖 Creator of the INNOVISION 2026 1st Place winning AI-powered predictive web application.
+* 🎥 Skilled in digital content creation, video editing, and modern multimedia tools.
 * 📧 Reach me at: [gsandanila23@gmail.com](mailto:gsandanila23@gmail.com)
 * 🔗 Connect with me on: [LinkedIn Profile](https://www.linkedin.com/in/sandanila-godakanda/)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL, Java |
-| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
-| **Frameworks** | Django, Tkinter |
-| **Tools** | Git, GitHub, VS Code, CapCut, DaVinci Resolve |
+| **Programming Languages** | Python, Java, C#, PHP |
+| **Web Technologies & Frameworks** | React.js, Next.js, Node.js, Tailwind CSS, HTML, CSS, Django, Tkinter |
+| **Mobile Development** | Flutter |
+| **Databases & Tools** | SQL, MySQL, Git, GitHub |
+| **Multimedia & Editing** | DaVinci Resolve, CapCut, Videography, Drone Videography, Video Editing |
 
 ---
 
 ### 📁 Top Projects
 
-* **[AI-Video-Engagement-Predictor](https://github.com/sandanila/AI-Video-Engagement-Predictor)** - AI-based video engagement predictor using Machine Learning.
+* **[AI-Video-Engagement-Predictor](https://github.com/sandanila/AI-Video-Engagement-Predictor)** - AI-based video engagement predictor using Machine Learning (1st Place at INNOVISION 2026).
 * **[Weather-App-Python](https://github.com/sandanila/Weather-App-Python)** - Real-time weather data application built with Python.
 * **[Calculator-python](https://github.com/sandanila/Calculator-python)** - Simple GUI calculator with Tkinter to practice logic.
 * **2D Car Game** - Java-based object-oriented programming project.
@@ -41,11 +42,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandanila&theme=tokyonight&hide_border=true" width="100%" />
 </p>
-
----
-
-### ⚡ My Interests & Focus
-
-* **Predictive Modeling:** Turning raw data into future insights.
-* **Mathematics:** Exploring the logic behind AI through Statistics and Calculus.
-* **Video Editing:** Crafting engaging visual stories for YouTube and social media.
