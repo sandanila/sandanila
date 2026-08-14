@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sandanila
 
-### 🚀 Aspiring Data Scientist | ML Enthusiast | Python Developer
+### 🚀 Aspiring Full Stack Developer
 
 - 🎓 Currently pursuing **HNDIT** at **SLIATE**.
 - 📊 Passionate about **Data Science** and **Machine Learning**, focusing on **Statistical Modeling** and **Linear Algebra**.
